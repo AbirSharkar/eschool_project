@@ -1,0 +1,191 @@
+.nav-logo{
+    width: 40%;
+}
+
+.nav-button{
+    border: none;
+    border-radius: 20px;
+    background-color: #21B573;
+    white-space: nowrap;
+    color: white;
+    width: 104px;
+    height: 43px;
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+
+.bg-custom{
+    background-color: #F0FFF0;
+}
+
+.get-start-button{
+    border: none;
+    border-radius: 20px;
+    background-color: #21B573;
+    white-space: nowrap;
+    color: white;
+    width: 153px;
+    height: 43px;
+}
+
+#fpara{
+    color: #FD511A;
+
+}
+
+.header-text h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+
+}
+
+.header-text span{
+    color:  #21B573;
+}
+
+header{
+    background:  #F0FFF0;
+}
+
+/* Course area */
+
+.card-area h1 {
+    margin-bottom: 80px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.meta-area {
+    padding: 100px 0;
+    ;
+}
+
+.card {
+    border: none;
+}
+
+.meta-img img {
+    width: 80px;
+    height: 100px;
+}
+
+.card-title {
+    color: #413960;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-right: 0;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #21B573;
+}
+
+.card-footer {
+    border: none;
+}
+
+.left {
+    float: left;
+    font-size: 15px;
+    margin-right: 9px;
+}
+
+.left img {
+    float: left;
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.right {
+    float: right;
+    font-size: 15px;
+}
+
+.right img {
+    width: 24px;
+    height: 24px;
+}
+
+
+/* Testimonial area */
+
+#testimonial {
+    padding: 100px;
+}
+
+#testimonial h1 {
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 80px;
+}
+
+.testimonial-info img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+.testimonial-info p {
+    font-size: 15px;
+    color: #333;
+    margin-left: 30px;
+    overflow: hidden;
+}
+
+#footer-area {
+    background-color: #282531;
+    padding-top: 100px;
+}
+
+.footer-text {
+    color: rgb(201, 201, 201);
+    font-size: 15px;
+}
+
+.footer-link ul {
+    list-style-type: none;
+}
+
+.footer-link ul li a {
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer-link ul li:hover a {
+    margin-left: 5px;
+    transition: all .3s ease-in-out;
+    color: rgb(160, 160, 160);
+}
+
+.footer-link ul li:first-child a {
+    margin-left: 0;
+    color: #fff;
+}
+
+.footer-link ul li.course-title {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.footer-bottom {
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.footer-bottom p {
+    color: rgb(184, 184, 184);
+    font-size: 14px;
+}
